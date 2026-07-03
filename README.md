@@ -1,12 +1,6 @@
-Here's a clean, professional README ready to copy-paste:
 
----
-
-```markdown
 # AQI & Respiratory Health Correlation Analysis
 ### Leveraging Machine Learning and LLM-RAG Architecture for Air Quality and COPD Insights
-
----
 
 ## Overview
 
@@ -14,12 +8,9 @@ This project investigates the correlation between Air Quality Index (AQI) and Ch
 
 The system enables data-driven analysis of how air pollutants — including PM2.5, PM10, and atmospheric gases — impact respiratory health outcomes, with a focus on Indian datasets and real-world feasibility.
 
----
-
 ## Tech Stack
 
 | Layer | Tools |
-|---|---|
 | Language | Python |
 | Data Processing | Pandas, NumPy |
 | Machine Learning | Scikit-learn, XGBoost, LightGBM |
@@ -30,8 +21,6 @@ The system enables data-driven analysis of how air pollutants — including PM2.
 | Database | SQL |
 | LLM | Open-source models (local deployment) |
 | Version Control | Git, GitHub |
-
----
 
 ## Project Structure
 
@@ -55,16 +44,12 @@ The system enables data-driven analysis of how air pollutants — including PM2.
 - Interactive dashboard for data visualisation and model inference
 - Modular architecture supporting multiple open-source LLMs
 
----
-
 ## Datasets
 
 Sourced from Indian repositories including:
 - Central Pollution Control Board (CPCB)
-- data.gov.in — city-wise AQI records
-- ICMR & NFHS — epidemiological health data
-
----
+- data.gov.in : city-wise AQI records
+- ICMR & NFHS : epidemiological health data
 
 ## Status
 
@@ -83,8 +68,3 @@ Sourced from Indian repositories including:
 ## License
 
 This project is for academic and research purposes only.
-```
-
----
-
-Feel free to update the status checkboxes as you progress!
